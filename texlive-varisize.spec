@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-varisize
 Version:	20081121
-Release:	3
+Release:	4
 Summary:	Change font size in Plain TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/plain/contrib/varisize
