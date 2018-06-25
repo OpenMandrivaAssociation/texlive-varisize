@@ -5,7 +5,7 @@
 # catalog-license pd
 # catalog-version undef
 Name:		texlive-varisize
-Version:	20170414
+Version:	20180303
 Release:	1
 Summary:	Change font size in Plain TeX
 Group:		Publishing
