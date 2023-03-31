@@ -1,6 +1,6 @@
 Name:		texlive-varisize
 Version:	15878
-Release:	1
+Release:	2
 Summary:	Change font size in Plain TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/plain/contrib/varisize
