@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Change font size in Plain TeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/plain/contrib/varisize
+URL:		https://www.ctan.org/tex-archive/macros/plain/contrib/varisize
 License:	PD
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/varisize.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/varisize.doc.r%{version}.tar.xz
